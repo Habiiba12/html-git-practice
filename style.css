@@ -12,3 +12,21 @@
     background-color: black;
     color: white;
 }
+.primary-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.primary-column{
+ width: 50%;
+}
+.secondary-column{
+    width: 20%;
+}
+
+.third-column{
+    width: 30%;
+
+}
+
